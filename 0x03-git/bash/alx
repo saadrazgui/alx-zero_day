@@ -1,1 +1,5 @@
-HEAD
+<<<<<<< HEAD
+This is the content from the main branch
+=======
+This is the content from the update_script branch
+>>>>>>> update_script
